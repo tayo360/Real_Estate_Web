@@ -1,4 +1,4 @@
 # Real Estate website
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+### [Live Site](https://tayo360.github.io/Real_Estate_Web/)
 
 ![Real Estate](src\assets\Readme.png)
